@@ -1,0 +1,59 @@
+UPDATE t1 SET col1 = (col1 + 2) * 3, col2 = (col2 - 4) / 5 WHERE col3 + 6 * 7 > 5
+*UpdateStmt:
+	'UPDATE' Identifier 'SET' Equalities 'WHERE' Expression
+Equalities:
+	Equality (',' Equality)* 
+Equality:
+	Identifier '=' Expression
+Expression: 
+	Expression ('>' | '<') Expression
+	Additive
+Additive:
+	Additive ('+' | '-') Multiplicative
+	Multiplicative
+Multiplicative:
+	Multiplicative ('*' | '/') Primary
+	Primary
+Primary:
+	'(' Expression ')'
+	Expression
+	Number
+	Identifier
+
+UPDATE t1 SET col1 = (col1 + 2) * 3, col2 = (col2 - 4) / 5 WHERE col3 + 6 * 7 > 5
+*UpdateStmt: 'UPDATE' Identifier 'SET' Equalities 'WHERE' Expression
+Equalities: Equality 
+Equalities: Equalities ',' Equality
+Equality: Identifier '=' Expression
+Expression: Expression '<' Expression
+Expression: Expression '>' Expression
+Expression: Additive
+Additive: Additive '+' Multiplicative
+Additive: Additive '-' Multiplicative
+Additive: Multiplicative
+Multiplicative: Multiplicative '/' Primary
+Multiplicative: Multiplicative '*' Primary
+Multiplicative: Primary
+Primary: '(' Expression ')'
+Primary: Expression
+Primary: Number
+Primary: Identifier
+
+Стартовый нетерминал: UpdateStmt
+Нетерминалы: UpdateStmt, Equalities, Equality, Expression, Additive, Multiplicative, Primary
+Термина: 'UPDATE', Identifier, 'SET', 'WHERE', ',', '=', '<', '>', '+', '-', '/', '*', '(', ')', Number
+UPDATE t1 SET col1 = (col1 + 2) * 3, col2 = (col2 - 4) / 5 WHERE col3 + 6 * 7 > 5
+'UPDATE' Identifier 'SET' Equalities 'WHERE' Expression
+'UPDATE' Identifier 'SET' Equalities ',' Equality 'WHERE' Expression '>' Expression
+'UPDATE' Identifier 'SET' Equality  ',' Identifier '=' Expression 'WHERE' Additive '>' Additive
+'UPDATE' Identifier 'SET' Identifier '=' Expression ',' Identifier '=' Additive 'WHERE' Additive '+' Multiplicative '>' Multiplicative
+'UPDATE' Identifier 'SET' Identifier '=' Additive ',' Identifier '=' Multiplicative 'WHERE' Multiplicative '+' Multiplicative '*' Primary '>' Primary
+'UPDATE' Identifier 'SET' Identifier '=' Multiplicative ',' Identifier '=' Multiplicative '/' Primary 'WHERE' Primary '+' Primary '*' Number '>' Number
+'UPDATE' Identifier 'SET' Identifier '=' Multiplicative '*' Primary ',' Identifier '=' Primary '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Number
+'UPDATE' Identifier 'SET' Identifier '=' Primary '*' Number ',' Identifier '=' '(' Expression ')' '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Number
+'UPDATE' Identifier 'SET' Identifier '=' '(' Expression ')' '*' Number ',' Identifier '=' '(' Additive ')' '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Number
+'UPDATE' Identifier 'SET' Identifier '=' '(' Additive ')' '*' Number ',' Identifier '=' '(' Additive '-' Multiplicative ')' '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Number
+'UPDATE' Identifier 'SET' Identifier '=' '(' Additive '+' Multiplicative ')' '*' Number ',' Identifier '=' '(' Multiplicative '-' Primary ')' '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Number
+'UPDATE' Identifier 'SET' Identifier '=' '(' Multiplicative '+' Primary ')' '*' Number ',' Identifier '=' '(' Primary '-' Number ')' '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Number
+'UPDATE' Identifier 'SET' Identifier '=' '(' Primary '+' Number ')' '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Number
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')' '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Number

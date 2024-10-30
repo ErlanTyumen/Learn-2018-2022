@@ -1,0 +1,9 @@
+﻿UPDATE t1 SET col1 = (col1 + 2) * 3, col2 = (col2 - 4) / 5 WHERE m * 7 > 5
+*UpdateStmt: 'UPDATE' Identifier 'SET' Assignments 'WHERE' Expression
+Assignments: Assignment (',' Assignment)*
+Assignment: Identifier '=' Expression
+Expression: Inequality
+Inequality: Inequality ('>' | '<') Additive | Additive
+Additive: Additive ('+' | '-') Multiplicative | Multiplicative
+Multiplicative: Multiplicative ('*' | '/') Primary | Primary
+Primary: '(' Expression ')' | Number | Identifier

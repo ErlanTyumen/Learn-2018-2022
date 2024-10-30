@@ -1,0 +1,380 @@
+<!DOCTYPE HTML>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8">
+		<title>Лабораторная работа №1/2/4</title>
+		<meta name="keywords" content="" />
+		<meta name="description" content="" />
+		<link href="reset.css" rel="stylesheet"/>
+		<link href="Style.css" rel="stylesheet"/>
+		<link href="https://fonts.gstatic.com" rel="preconnect" >
+		<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500&display=swap" rel="stylesheet">
+		<script src="https://kit.fontawesome.com/8579490a7d.js" crossorigin="anonymous"></script>
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+	</head>
+	<body>
+		<div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="exampleModalLabel">Результаты поиска</h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						</button>
+					</div>
+					<div class="modal-body">
+						dsada
+					</div>
+				</div>
+			</div>
+		</div>
+		<nav class="navbar fixed-top navbar-expand-lg navbar-light bg-warning ">
+		<div class="container">
+			<div class="navbar-logo">
+				<i class="fab fa-google-play fa-1x"></i>
+				<i class="fab fa-google fa-2x"></i>
+				<i class="fab fa-google-drive fa-1x"></i>
+			</div>
+			<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarSupportedContent">
+				<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+					<li class="nav-item">
+						<a class="nav-link active" aria-current="page" href="#nav-section1">Раздел 1</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link active" aria-current="page" href="#nav-section2">Раздел 2</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link active" aria-current="page" href="#nav-section3">Раздел 3</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link active" href="#block1">Блок 1</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link active" href="#block2">Блок 2</a>
+					</li>
+				</ul>
+				<form id="mySearch" class="d-flex">
+					<input id="myInput" class="form-control me-2" type="search" value="" placeholder="Поиск" aria-label="Search" autocomplete="off">
+				</form>
+			</div>
+		</div>
+	</nav>
+
+	<!--<section class="menu">
+
+		<div class="menu-container col-md-12 col-lg-7">
+			<i class="fab fa-google-play fa-2x"></i>
+			<i class="fab fa-google fa-3x"></i>
+			<i class="fab fa-google-drive fa-2x"></i>
+			<a href="#Logo">Кратенько о Google</a> | <a href="#History">История</a> | <a href="#After2001">Развитие после 2001 года</a> | <a href="#Charity">Благотворительность</a> | <a href="#Headquarters">Google's Headquarters</a>
+		</div>
+	</section>-->
+
+
+		<div class="anchor" id="Logo" ></div>
+
+		<section class="header">
+			<div class="header-container col-md-7">
+				<img  src="Img/Google-logo.jpg" alt="Тут должен быть логотип" />
+				<h1 class="header_text">Кратенько о <span style="color: #4285f4;">G</span><span style="color: #ea4335;">o</span><span style="color: #fbbc05;">o</span><span style="color: #4285f4;">g</span><span style="color: #34a853;">l</span><span style="color: #ea4335;">e</span></h1>
+			</div>
+		</section>
+
+		<div class="anchor" id="History" ></div>
+
+		<ul class="nav nav-tabs container">
+			<li class="nav-item" id="nav-section1">
+				<a class="nav-link active" aria-current="page" href="#sect1">Раздел 1</a>
+			</li>
+			<li class="nav-item" id="nav-section2">
+				<a class="nav-link" href="#sect2">Раздел 2</a>
+			</li>
+			<li class="nav-item" id="nav-section3">
+				<a class="nav-link" href="#sect3">Раздел 3</a>
+			</li>
+		</ul>
+
+		<div class="tab-content container" id="TabContent">
+			<div class="tab-pane fade show active" id="sect1" role="tabpanel" aria-labelledby="home-tab">
+				<section class="history">
+					<div class="container align-items-center justify-content-center flex-wrap flex-lg-nowrap">
+						<h2 >История</h2>
+						<img class="Photos" src="Img/Page&Brin.jpg" alt="А здесь должны быть Ларри Пейдж и Сергей Брин">
+						<h3>Как всё начиналось...</h3>
+						<p>
+							Google появился в январе 1996 года как научно-исследовательский проект Ларри Пейджа и Сергея Брина, которые тогда учились в Стэнфордском университете в Калифорнии.
+							Хотя обычные поисковые системы тогда сортировали поисковую выдачу по тому, сколько раз искомые термины упоминались на странице, Пейдж и Брин размышляли над лучшей системой, которая анализировала бы отношения между сайтами.
+							Они назвали эту новую технологию PageRank, актуальность сайта в ней определяется количеством и важностью страниц, которые ссылаются на сайт.
+
+						</p>
+
+						<p>
+							Пейдж и Брин изначально назвали свою поисковую систему BackRub, потому что система проверяла обратные ссылки для оценки важности сайта.
+							В конце концов, они изменили название на Google — ошибочное написание слова «гугол» (англ. googol).
+							Смена названия произошла случайно при встрече с одним из основателей Sun Microsystems Энди Бехтольшеймом.
+							Случайно он подписал чек на сумму 100 тысяч долл. на имя несуществующей ещё компании Google Incorporated, заявленной ошарашенным Сергеем.
+							Чтобы получить деньги в банке, необходимо было именно под этим названием зарегистрировать фирму, что и было сделано позднее 4 сентября 1998 года.
+						</p>
+
+						<p>
+							Доменное имя для Google было зарегистрировано 15 сентября 1997 года, а компания была зарегистрирована 4 сентября 1998 года.
+							Она была расположена в гараже подруги основателей в Менло-Парке. Крейг Сильверстейн, их однокурсник, был нанят в качестве первого сотрудника.
+						</p>
+
+						<p>
+							В марте 1999 года компания переехала в Пало-Альто (штат Калифорния) — город, в котором размещены штаб-квартиры нескольких других известных технологических стартапов Кремниевой долины.
+							В следующем году, вопреки изначальной позиции Пейджа и Брина против финансируемой рекламой поисковой системы, Google начала продавать рекламу, связанную с поиском ключевых слов.
+							В целях соответствия минималистичному дизайну объявления были исключительно текстовыми.
+						</p>
+
+						<p>
+							В 2001 году «Google» получила патент, описывающий механизм PageRank. Патент был официально выдан Стэнфордскому университету и указывает Лоуренса Пейджа как изобретателя.
+							В 2003 году компания арендовала свой нынешний офисный комплекс у «Silicon Graphics» в Маунтин-Вью (штат Калифорния).
+							Комплекс с тех пор стал известен как Googleplex. Три года спустя «Google» купила собственность у «SGI» за 319 млн долл.
+							К этому времени название Google вошло в бытовую речь, в результате чего глагол «google» был добавлен в академический словарь Merriam-Webster и Оксфордский словарь английского языка со значением «использовать поисковую систему Google, чтобы найти информацию в Интернете».
+						</p>
+
+					</div>
+				</section>
+				<section class="after2001">
+					<div class="container align-items-center justify-content-center flex-wrap flex-lg-nowrap">
+						<h2>Развитие после 2001 года</h2>
+						<img class="Photos" src="Img/PurchasesOfGoogle.jpg" alt="Где же сейчас приобретения Google?">
+						<h3>Приобретения и партнёрства</h3>
+						<p>
+							С 2001 года Google приобрела много компаний, ориентируясь в основном на небольшие венчурные компании.
+							В 2004 году Google приобрела Keyhole, Inc.
+							Этот стартап разработал продукт под названием Earth Viewer, в котором были размещены спутниковые фотографии земной поверхности.
+							Google переименовала сервис в «Google Планета Земля» в 2005 году. Два года спустя Google купила видеохостинг YouTube за 1,65 млрд долл.
+							13 апреля 2007 года Google приобрела одного из пионеров интернет-рекламы компанию DoubleClick за 3,1 млрд долл., что дало Google ценные связи, которые были у DoubleClick с веб-издателями и рекламными агентствами.
+							Позднее в том же году Google приобрела GrandCentral за 50 млн долларов. Этот сервис стал основой для Google Voice.
+							5 августа 2009 года Google купила первую для себя публичную компанию — производителя программного обеспечения для видео On2 Technologies за 106,5 млн долларов.
+						</p>
+						<p>
+							В 2008 году Google совместно с GeoEye запустила спутник для обеспечения Google Earth изображениями с высоким разрешением.
+							Спутник был запущен с авиабазы Ванденберг 6 сентября 2008 года. В том же году Google в рамках партнёрства с журналом Life разместила у себя архив его фотографий.
+						</p>
+						<p>
+							В 2010 году Google Energy совершила свою первую инвестицию в проект освоения возобновляемых источников энергии, вложив 38,8 млн долл. в две ветровые электростанции в Северной Дакоте.
+							Компания объявила, что они будут генерировать 169,5 мегаватт энергии, что достаточно для снабжения 55 тысяч домов.
+							Также, в 2010 году Google приобрела норвежскую компанию Global IP Solutions — разработчика сервиса веб-телеконференции.
+						</p>
+						<p>
+							В 2018 году компания Google приобрела часть компании HTC.
+							Стоимость сделки — 1,1 млрд долларов. С момента заключения сделки более двух тысяч инженеров HTC будут разрабатывать гаджеты Google, включая смартфоны Google Pixel.
+						</p>
+						<p>
+							В 2021 году Google закрыл футуристический Project Loon.
+							Это была попытка обеспечить труднодоступные районы планеты интернетом с помощью воздушных шаров.
+							Он просуществовал восемь лет, не раз оказывался на первых полосах технологической прессы, принес некоторое количество открытий, но в итоге компания признала: экономика не сходится.
+						</p>
+					</div>
+				</section>
+				<section class="charity">
+					<div class="container">
+						<h2>Благотворительность</h2>
+						<div class="flex row text-center container-fluid">
+							<div class="nearby-container col-sm-6 col-md-4 col-lg-3 col-xxl-2">
+								<!--<img src="Img/Google-org.jpg" alt="Логотип Google.org">-->
+								<div class="Icon"><i class="fab fa-google fa-9x"></i></div>
+								<h3>Создание Google.org</h3>
+								<p>
+									В 2004 году Google создала некоммерческое благотворительное ответвление — Google.org (Google Foundation.
+								</p>
+								<p>
+									Основными направлениями деятельности этой организации являются информирование общества и способствование решению проблем в областях изменения климата, глобального здравоохранения и нищеты.
+									Одним из первых его проектов являются работы в области гибридных и электрических транспортных средств.
+								</p>
+							</div>
+							<div class="nearby-container col-sm-6 col-md-4 col-lg-3 col-xxl-2">
+								<!--<img src="Img/Project_10-100.jpg" alt="Логотип Project 10^100">-->
+								<div class="Icon"><i class="fas fa-bomb fa-9x"></i></div>
+								<h3>Проект 10<sup>100</sup></h3>
+								<p>
+									В 2008 году Google представила «проект 10<sup>100</sup>», в котором все желающие могут предложить идеи, а потом совместно выбрать ту, которая изменит мир и поможет как можно большему количеству людей.
+								</p>
+								<p>
+									На момент начала голосования было предложено более 150 тысяч идей от людей из 170 стран.
+									В голосовании приняли участие 16 групп идей, из которых было выбрано до 5, на помощь в реализации которых Google выделил 10 млн долларов.
+								</p>
+							</div>
+							<div class="nearby-container col-sm-6 col-md-4 col-lg-3 col-xxl-2">
+								<!--<img src="Img/Wikipedia-Logo.jpg" alt="Логотип Wikipedia">-->
+								<div class="Icon"><i class="fab fa-wikipedia-w fa-9x"></i></div>
+								<h3>Поддержка Wikipedia</h3>
+								<p>
+									В феврале 2010 года компания Google пожертвовала 2 млн долларов на поддержку Википедии.
+									Деньги направлены Фонду Викимедиа. Полученные деньги фонд направил на эксплуатационные расходы, включая инвестиции в техническую инфраструктуру, и на развитие и поддержку энциклопедии
+								</p>
+							</div>
+						</div>
+					</div>
+
+				</section>
+			</div>
+			<div class="tab-pane fade" id="sect2" role="tabpanel" aria-labelledby="profile-tab">
+
+			</div>
+			<div class="tab-pane fade" id="sect3" role="tabpanel" aria-labelledby="contact-tab">
+				<section class="carousel">
+					<div class="container">
+						<h2>Заголовок блока</h2>
+
+					</div>
+				</section>
+				<section class="history">
+					<div class="container">
+						<h2 class="head"></h2>
+
+					</div>
+				</section>
+				<section class="history">
+					<div class="container">
+						<h2 class="head"></h2>
+
+					</div>
+				</section>
+			</div>
+		</div>
+
+		<section class="headquarters">
+			<div class="container">
+				<h2>Google's Headquarters</h2>
+				<div class="video-container col">
+					<iframe class="video" width=100% height="630" src="https://www.youtube.com/embed/Z-pT0XDYvDM" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+		</section>
+		<section class="form" id="block2">
+			<div class="container">
+				<h2 class="head head--center">Подпишитесь!</h2>
+				<form class="row g-3 needs-validation" style="max-width: 540px; margin: auto;" novalidate>
+					<div class="col-8">
+						<label for="validationCustom01" class="form-label">Имя</label>
+						<input type="text" class="form-control" id="validationCustom01" required>
+						<div class="invalid-feedback">
+							Введите имя!
+						</div>
+						<label for="validationCustom02" class="form-label">Тип подписки</label>
+						<select class="form-select" id="validationCustom02" required>
+							<option selected disabled value=""></option>
+							<option>Junior</option>
+							<option>Middle</option>
+							<option>Senior</option>
+						</select>
+						<div class="invalid-feedback">
+							Выберите тип подписки!
+						</div>
+					</div>
+					<div class="col-4 d-flex align-items-center justify-content-center">
+						<div>
+							<label for="validationCustom03" class="form-label">Пол</label>
+							<div class="form-check">
+								<input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1"
+									   checked>
+								<label class="form-check-label" for="flexRadioDefault1">
+									Мужской
+								</label>
+							</div>
+							<div class="form-check">
+								<input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2">
+								<label class="form-check-label" for="flexRadioDefault2">
+									Женский
+								</label>
+							</div>
+						</div>
+					</div>
+					<div class="col-12">
+						<label for="validationCustom04" class="form-label">Телефон</label>
+						<input type="phone" class="form-control" value="+7(___)___-__-__"
+							   pattern="\+7\s?[\(]{0,1}9[0-9]{2}[\)]{0,1}\s?\d{3}[-]{0,1}\d{2}[-]{0,1}\d{2}"
+							   placeholder="+7(___)___-__-__" id="validationCustom04" required>
+						<div class="invalid-feedback">
+							Введите номер в формате +7(___)___-__-__!
+						</div>
+					</div>
+					<div class="col-12">
+						<label for="validationCustom05" class="form-label">E-mail</label>
+						<input type="email" class="form-control" id="validationCustom05" required>
+						<div class="invalid-feedback">
+							Некорректный E-mail!
+						</div>
+					</div>
+					<div class="col-12 d-flex justify-content-center">
+						<button class="btn btn-primary" type="submit">Подписаться</button>
+					</div>
+				</form>
+			</div>
+		</section>
+		<section class="aboutme">
+			<div class="container aboutme-container flex-wrap flex-lg-nowrap justify-content-evenly">
+				<img class="MyPhoto" src="Img/MyPhoto.jpg" alt="Моя фотка из 10 класса">
+				<p class="P2">
+					<strong>Ибраев Ерлан Иржанович</strong>
+					<br><br>Группа: 184-1
+				</p>
+				<p class="Tech">
+					<strong>Используемые технологии и статьи</strong>
+					<br>Википедия: Google (компания);
+					<br>Справочные материалы по HTML и CSS взяты с сайта htmlbook.ru
+				</p>
+			</div>
+			<div class="SVGAnimation">
+				<svg id="SVG" enable-background="new 0 0 512 512" height="512" viewBox="0 0 512 512" width="512" xmlns="http://www.w3.org/2000/svg">
+					<g id="medal">
+						<path d="m411.983 198.031-17.053-19.867 10.076-24.167c2.85-6.835.285-14.728-6.039-18.582l-22.36-13.626 2.119-26.093c.6-7.382-4.278-14.097-11.484-15.808l-25.471-6.05-6.05-25.479c-1.711-7.206-8.423-12.084-15.809-11.485l-26.101 2.12-13.626-22.36c-3.854-6.325-11.749-8.889-18.584-6.038l-24.166 10.072-19.866-17.051c-5.62-4.823-13.92-4.823-19.539 0l-19.865 17.051-24.165-10.081c-6.833-2.853-14.729-.288-18.584 6.038l-13.626 22.36-26.102-2.12c-7.378-.595-14.097 4.279-15.808 11.485l-6.05 25.479-25.471 6.05c-7.206 1.712-12.084 8.427-11.484 15.809l2.119 26.093-22.36 13.626c-6.324 3.854-8.889 11.747-6.039 18.582l10.077 24.167-17.055 19.875c-4.823 5.62-4.822 13.918.001 19.538l17.053 19.867-10.076 24.167c-2.85 6.835-.285 14.728 6.039 18.582l22.36 13.626-2.119 26.093c-.6 7.382 4.278 14.097 11.484 15.808l25.471 6.05 6.05 25.479c1.711 7.206 8.423 12.084 15.809 11.485l26.101-2.12 13.626 22.36c3.854 6.325 11.749 8.889 18.584 6.038l24.166-10.072 19.866 17.051c5.62 4.823 13.92 4.823 19.539 0l19.865-17.051 24.165 10.082c6.833 2.853 14.729.288 18.584-6.038l13.626-22.36 26.102 2.12c7.378.595 14.097-4.279 15.808-11.485l6.05-25.479 25.471-6.05c7.206-1.712 12.084-8.427 11.484-15.809l-2.119-26.093 22.36-13.626c6.324-3.854 8.889-11.747 6.039-18.582l-10.077-24.167 17.054-19.875c4.824-5.621 4.824-13.919 0-19.539z" fill="#ffec29"/>
+						<path d="m394.931 178.164 10.076-24.167c2.85-6.835.285-14.728-6.039-18.582l-22.36-13.626 2.119-26.093c.6-7.382-4.278-14.097-11.484-15.808l-25.471-6.05-6.05-25.479c-1.711-7.206-8.423-12.084-15.809-11.485l-26.101 2.12-13.626-22.36c-3.854-6.325-11.749-8.889-18.584-6.038l-24.166 10.072-19.867-17.051c-2.81-2.411-6.289-3.617-9.769-3.617v415.601c3.48 0 6.961-1.205 9.771-3.617l19.865-17.051 24.165 10.082c6.833 2.853 14.729.288 18.584-6.038l13.626-22.36 26.102 2.12c7.378.595 14.097-4.279 15.808-11.485l6.05-25.479 25.471-6.05c7.206-1.712 12.084-8.427 11.484-15.809l-2.119-26.093 22.36-13.626c6.324-3.854 8.889-11.747 6.039-18.582l-10.077-24.167 17.054-19.875c4.823-5.62 4.822-13.918-.001-19.538z" fill="#ffcb00"/>
+					</g>
+					<g id="star">
+						<path d="m329.029 168.404c-1.553-4.78-5.396-8.464-10.238-9.813l-62.574-17.443-35.921-54.11c-2.78-4.187-7.471-6.704-12.497-6.704s-9.717 2.517-12.497 6.704l-35.921 54.11-62.574 17.443c-4.841 1.35-8.685 5.034-10.238 9.813s-.609 10.02 2.514 13.957l40.368 50.894-2.745 64.897c-.212 5.021 2.104 9.815 6.17 12.769 4.067 2.954 9.34 3.675 14.051 1.922l60.872-22.666 60.872 22.666c4.711 1.753 9.984 1.032 14.051-1.922 4.066-2.954 6.382-7.748 6.17-12.769l-2.745-64.897 40.368-50.894c3.124-3.937 4.068-9.177 2.514-13.957z" fill="#ffcb00"/>
+						<path d="m207.8 290.177 60.872 22.666c4.711 1.753 9.984 1.032 14.051-1.922 4.066-2.954 6.382-7.748 6.17-12.769l-2.745-64.897 40.368-50.894c3.123-3.938 4.067-9.177 2.514-13.957s-5.396-8.464-10.238-9.813l-62.574-17.443-35.921-54.11c-2.78-4.187-7.471-6.704-12.497-6.704z" fill="#ffa07a"/>
+					</g>
+					<g id="cursor">
+						<path d="m438.195 507.606-68.988-68.987-37.594 37.593c-3.821 3.822-9.403 5.292-14.61 3.849-5.208-1.442-9.238-5.575-10.548-10.817l-48.2-192.8c-1.278-5.112.22-10.519 3.946-14.245s9.134-5.224 14.245-3.946l192.8 48.2c5.243 1.311 9.375 5.34 10.817 10.548 1.443 5.208-.028 10.789-3.849 14.61l-37.593 37.594 68.987 68.987c5.859 5.859 5.852 15.361 0 21.213l-48.2 48.2c-5.858 5.861-15.357 5.858-21.213.001z" fill="#f5fafa"/>
+						<path d="m438.621 369.206 37.593-37.594c3.821-3.821 5.292-9.402 3.849-14.61-1.442-5.208-5.575-9.237-10.817-10.548l-192.8-48.2c-5.11-1.278-10.519.22-14.245 3.946l221.307 221.307 24.1-24.1c5.852-5.852 5.859-15.354 0-21.213z" fill="#e1ebf0"/>
+					</g>
+				</svg>
+			</div>
+		</section>
+		<script src="jquery.js"></script>
+		<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="search.js"></script>
+		<script type="text/javascript">
+			// Example starter JavaScript for disabling form submissions if there are invalid fields
+			(function () {
+				'use strict'
+
+				// Fetch all the forms we want to apply custom Bootstrap validation styles to
+				var forms = document.querySelectorAll('.needs-validation')
+
+				// Loop over them and prevent submission
+				Array.prototype.slice.call(forms)
+						.forEach(function (form) {
+							form.addEventListener('submit', function (event) {
+								if (!form.checkValidity()) {
+									event.preventDefault()
+									event.stopPropagation()
+								}
+
+								form.classList.add('was-validated')
+							}, false)
+						})
+			})()
+
+			$('a[href="#nav-section1"]').click( function () {
+				$('a[href="#sect1"]').tab('show');
+			});
+			$('a[href="#nav-section2"]').click( function () {
+				$('a[href="#sect2"]').tab('show');
+			});
+			$('a[href="#nav-section3"]').click( function () {
+				$('a[href="#sect3"]').tab('show');
+			});
+		</script>
+	</body>
+</html>

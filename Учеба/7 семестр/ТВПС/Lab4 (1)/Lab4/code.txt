@@ -1,0 +1,3 @@
+dump(trace([trace(1)])[trace(0)]);
+trace([trace(4)])[trace(0)] = trace(1);
+[]==[];

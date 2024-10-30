@@ -1,0 +1,49 @@
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe.config
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.pdb
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csprojResolveAssemblyReference.cache
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Form1.resources
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Properties.Resources.resources
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csproj.GenerateResource.Cache
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.exe
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.pdb
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe.config
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.exe
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.pdb
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.pdb
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csprojResolveAssemblyReference.cache
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Form1.resources
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Properties.Resources.resources
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csproj.GenerateResource.Cache
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.Doc.dll
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.License.dll
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.Pdf.dll
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.Doc.xml
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.License.xml
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.Pdf.xml
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe.config
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.pdb
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.License.xml
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csprojAssemblyReference.cache
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Form1.resources
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Properties.Resources.resources
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csproj.GenerateResource.cache
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csproj.CoreCompileInputs.cache
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csproj.CopyComplete
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.exe
+C:\Users\ishmu\OneDrive\Рабочий стол\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.pdb
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe.config
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.pdb
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.License.xml
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csprojAssemblyReference.cache
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Form1.resources
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Properties.Resources.resources
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csproj.GenerateResource.cache
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csproj.CoreCompileInputs.cache
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csproj.CopyComplete
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.exe
+C:\Users\Grost\Downloads\Arkhiv_WinRAR\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.pdb

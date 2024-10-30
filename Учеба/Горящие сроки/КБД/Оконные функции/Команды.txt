@@ -1,0 +1,13 @@
+Select ClientId, OrderId, Sum, AVG(Sum) OVER (PARTITION BY ClienId) AS AVGSum FROM orders;
+
+Select ClientId, OrderId, Sum, LAST_VALUE(Sum) OVER(PARTITION BY ClientId) AS LastSum FROM orders;
+
+Select ClientId, OrderId, Sum, Max(Sum) OVER(PARTITION BY ClientId) AS MaxSum FROM orders;
+
+Select ClientId, OrderId, Sum, NTILE(4) OVER () AS NTILE FROM orders;
+
+Select ClientId, OrderId, Sum, COUNT(ClientId) OVER() AS ordersCount FROM orders;
+
+Select ClientId, OrderId, Sum,rank() OVER(order by Sum desc) AS Rank FROM orders;
+
+Select ClientId, OrderId, SUM(Sum) OVER(PARTITION BY ClientId) AS TotalCost FROM orders;

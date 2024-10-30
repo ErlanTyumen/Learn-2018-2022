@@ -1,0 +1,300 @@
+@charset "UTF-8";
+/* Задает стиль текста на всей странице */
+
+body {
+  font-size: 11px;
+  font-family: "Roboto Slab", serif;
+}
+
+sub {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+/* Фиксирует размер контейнера в каждой секции и центрирует на странице */
+section .menu-container, section .header-container {
+  width: 1300px;
+  margin: 0 auto;
+  /* border: 1px dashed #000000; */
+  overflow: auto;
+}
+section .container {
+  width: 1300px;
+  margin: 0 auto;
+  /* border: 1px dashed #000000; */
+  background: #999999;
+  padding: 10px 0 10px 0;
+  overflow: auto;
+}
+section.menu {
+  /* Меняет фон секции с меню */
+  background: #fbbc05;
+  /* Добавляет внутренние отступы у секции сверху и снизу */
+  padding-top: 8px;
+  padding-bottom: 8px;
+  /* Центрирует неблочный контент (тег a) по центру родительского блочного элемента (div) */
+  text-align: center;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 9999;
+}
+
+body h2 {
+  padding: 10px 0 0 20px;
+  font-size: 40px;
+}
+body h3 {
+  font-size: 25px;
+}
+body p {
+  text-indent: 20px;
+  margin: 0 10px 0 10px;
+  font-size: 15px;
+}
+
+section {
+  padding-bottom: 10px;
+}
+section.menu a {
+  font-size: 17px;
+  padding-bottom: 0;
+}
+section.header {
+  /* Меняет фон секции с заголовком */
+  background: #ffffff;
+  padding-top: 10px;
+}
+
+.header-container {
+  position: relative;
+}
+
+section.header h1 {
+  font-size: 80px;
+  right: 0;
+  padding: 0 0 50px 0;
+  bottom: 5px;
+  position: absolute;
+}
+section.header img {
+  width: 100%;
+}
+section.history h3 {
+  padding: 25px 0 20px 0;
+}
+section.history img {
+  width: 500px;
+  height: auto;
+  margin: 15px 10px 5px;
+  padding: 10px 5px 0 0;
+  border-radius: 20%;
+  float: left;
+}
+section.after2001 h3 {
+  padding: 25px 0 20px 20px;
+}
+section.after2001 img {
+  width: 500px;
+  height: auto;
+  margin: 15px 10px 5px;
+  padding: 10px 5px 0 0;
+  border-radius: 20%;
+  float: right;
+}
+section.charity img {
+  width: 300px;
+  height: auto;
+  border-radius: 20%;
+}
+
+/* Растягивает ширину любой картинки на 100% от ширины родительского блока (т.е. container),
+все изображения будут пропорционально увеличены до 1000px ширины */
+.charity h2 {
+  text-align: center;
+}
+.charity h3 {
+  padding: 5px 0 0 0;
+  text-align: center;
+}
+
+.nearby-container {
+  width: 300px;
+  display: inline-block;
+  float: left;
+  text-align: left;
+  margin: 20px auto;
+}
+.nearby-container p {
+  margin: 10px auto;
+}
+
+.flex {
+  display: flex;
+}
+
+.container iframe {
+  margin: 20px auto;
+  display: flex;
+  border: 0;
+}
+
+.headquarters h2 {
+  text-align: center;
+}
+
+.aboutme {
+  background: #ea4335;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  text-align: center;
+}
+
+.aboutme-container {
+  width: 1300px;
+  margin: 0 auto;
+  /* border: 1px dashed #000000; */
+  overflow: auto;
+  display: flex;
+}
+
+.P2 {
+  width: 20%;
+  text-align: center;
+  text-indent: 0;
+}
+
+.Tech {
+  width: 100%;
+  text-indent: 0;
+  text-align: left;
+}
+
+.MyPhoto {
+  margin: 0 0 0 20px;
+  border-radius: 100%;
+  width: 150px;
+  height: auto;
+}
+
+p.anchor {
+  color: #ffffff;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.Icon {
+  text-align: center;
+}
+
+.fa-google {
+  color: #ea4335;
+  text-shadow: 1px 1px 2px black, 0 0 1em black;
+}
+
+.fa-google-play {
+  color: #46CCF8;
+  text-shadow: 1px 1px 2px black, 0 0 1em black;
+}
+
+.fa-google-drive {
+  color: #34a853;
+  text-shadow: 1px 1px 2px black, 0 0 1em black;
+  margin: 0 20px 0 0;
+}
+
+.Photos {
+  transition-duration: 0.5s;
+}
+.Photos:hover {
+  border-radius: 10%;
+  transform: scale(0.9);
+}
+
+@keyframes G {
+  0% {
+    filter: drop-shadow(2px 2px 3px rgba(100, 0, 0, 0.5)) hue-rotate(60deg) blur(2px);
+  }
+  25% {
+    transform: scaleX(1.2) translate(30px, -20px);
+  }
+}
+.fa-google:hover {
+  animation: G 5s;
+}
+
+@keyframes W {
+  20% {
+    transform: skewY(-10deg) rotate(360deg);
+  }
+  40% {
+    transform: skewX(10deg);
+  }
+  60% {
+    transform: skewY(10deg);
+  }
+  80% {
+    transform: skewX(-10deg);
+  }
+}
+.fa-wikipedia-w {
+  animation: W 3s infinite;
+}
+
+#medal path {
+  animation: Dark 1s infinite;
+}
+
+@keyframes Dark {
+  0% {
+    filter: brightness(50%);
+  }
+  25% {
+    filter: brightness(100%);
+  }
+  100% {
+    filter: brightness(50%);
+  }
+}
+#star path {
+  animation: Coloring 1s infinite;
+}
+
+@keyframes Coloring {
+  0% {
+    fill: Yellow;
+  }
+  25% {
+    fill: Orange;
+  }
+  100% {
+    fill: Yellow;
+  }
+}
+#cursor path {
+  animation: Click 1s infinite;
+}
+
+@keyframes Click {
+  25% {
+    transform: scale(0.9);
+    filter: brightness(110%);
+  }
+}
+
+/*# sourceMappingURL=Style.css.map */

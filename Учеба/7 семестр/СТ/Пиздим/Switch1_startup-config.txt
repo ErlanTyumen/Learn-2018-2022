@@ -1,0 +1,91 @@
+!
+version 15.4
+no service timestamps log datetime msec
+no service timestamps debug datetime msec
+no service password-encryption
+!
+hostname Abramov_ISP
+!
+!
+!
+!
+!
+!
+!
+!
+ip cef
+ipv6 unicast-routing
+!
+no ipv6 cef
+!
+ipv6 dhcp pool dhcp_pool
+ address prefix 2001:6:12::/64 lifetime 172800 86400
+ domain-name Abramov
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+spanning-tree mode pvst
+!
+!
+!
+!
+!
+!
+interface GigabitEthernet0/0/0
+ no ip address
+ duplex auto
+ speed auto
+ ipv6 address 2001:6:12::2/64
+ ipv6 enable
+ ipv6 dhcp server dhcp_pool
+!
+interface GigabitEthernet0/0/1
+ no ip address
+ duplex auto
+ speed auto
+ ipv6 address 2001:3:12:2000::1/64
+!
+interface GigabitEthernet0/0/2
+ no ip address
+ duplex auto
+ speed auto
+ shutdown
+!
+interface Vlan1
+ no ip address
+ shutdown
+!
+ip classless
+!
+ip flow-export version 9
+!
+ipv6 route 2001:5:12::/64 2001:6:12:0:2D0:97FF:FE5E:C502
+ipv6 route 2001:3:12::/64 2001:6:12:0:2D0:97FF:FE5E:C502
+ipv6 route 2001:4:12::/64 2001:6:12:0:2D0:97FF:FE5E:C502
+!
+!
+!
+!
+!
+!
+!
+line con 0
+!
+line aux 0
+!
+line vty 0 4
+ login
+!
+!
+!
+end
+

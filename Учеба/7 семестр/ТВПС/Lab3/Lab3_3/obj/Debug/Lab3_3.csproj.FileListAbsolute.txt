@@ -1,0 +1,7 @@
+C:\Users\Grost\Desktop\ТВПС\Lab3\Lab3_3\obj\Debug\Lab3_3.csprojAssemblyReference.cache
+C:\Users\Grost\Desktop\ТВПС\Lab3\Lab3_3\obj\Debug\Lab3_3.csproj.CoreCompileInputs.cache
+C:\Users\Grost\Desktop\ТВПС\Lab3\Lab3_3\bin\Debug\Lab3_3.exe.config
+C:\Users\Grost\Desktop\ТВПС\Lab3\Lab3_3\bin\Debug\Lab3_3.exe
+C:\Users\Grost\Desktop\ТВПС\Lab3\Lab3_3\bin\Debug\Lab3_3.pdb
+C:\Users\Grost\Desktop\ТВПС\Lab3\Lab3_3\obj\Debug\Lab3_3.exe
+C:\Users\Grost\Desktop\ТВПС\Lab3\Lab3_3\obj\Debug\Lab3_3.pdb

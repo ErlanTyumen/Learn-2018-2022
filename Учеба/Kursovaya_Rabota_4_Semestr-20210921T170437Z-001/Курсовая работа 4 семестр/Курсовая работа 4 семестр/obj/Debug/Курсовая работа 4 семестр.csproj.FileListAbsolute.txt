@@ -1,0 +1,25 @@
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe.config
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.pdb
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csprojResolveAssemblyReference.cache
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Form1.resources
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Properties.Resources.resources
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csproj.GenerateResource.Cache
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.exe
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.pdb
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe.config
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.exe
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.pdb
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.exe
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\bin\Debug\Курсовая работа 4 семестр.pdb
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csprojResolveAssemblyReference.cache
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Form1.resources
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая_работа_4_семестр.Properties.Resources.resources
+C:\Users\Gaukhar Kanapyanova\Desktop\ExamGen\Курсовая работа 4 семестр\obj\Debug\Курсовая работа 4 семестр.csproj.GenerateResource.Cache
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.Doc.dll
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.License.dll
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.Pdf.dll
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.Doc.xml
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.License.xml
+C:\Users\Gaukhar Kanapyanova\Desktop\Курсовая работа 4 семестр\Курсовая работа 4 семестр\bin\Debug\Spire.Pdf.xml

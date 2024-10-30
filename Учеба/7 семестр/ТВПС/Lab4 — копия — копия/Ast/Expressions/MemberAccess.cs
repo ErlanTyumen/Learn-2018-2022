@@ -1,0 +1,16 @@
+﻿using System.Numerics;
+namespace Lab4.Ast.Expressions {
+	sealed class MemberAccess : IExpression {
+		public BigInteger Position { get; }
+		public readonly IExpression Obj;
+		public readonly string Member;
+		public MemberAccess(BigInteger position, IExpression obj, string member) {
+			Position = position;
+			Obj = obj;
+			Member = member;
+		}
+		public string FormattedString => $"{Obj.FormattedString}.{Member}";
+		public void Accept(IExpressionVisitor visitor) => visitor.VisitMemberAccess(this);
+		public T Accept<T>(IExpressionVisitor<T> visitor) => visitor.VisitMemberAccess(this);
+	}
+}

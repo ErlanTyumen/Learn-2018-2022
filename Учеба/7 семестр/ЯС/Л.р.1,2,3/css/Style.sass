@@ -1,0 +1,306 @@
+@charset "UTF-8"
+
+/* Переменные цветов
+/* Оригинальная палитра
+$amber: #fbbc05
+$red: #ea4335
+$blue: #46CCF8
+$darkgreen: #34a853
+/* Палитра №4297
+$lightgreen: #bdef53
+$pink: #f662d1
+$lightblue: #96dff4
+$purple: #2d0625
+/* Палитра №4293
+$orange: #fcb500
+$peach: #fd9a7e
+$beige: #edc596
+$red-orange: #c43d16
+/* Палитра №4284
+$brown-orange: #bc6d4c
+$blood-red: #7e0f12
+$swamp-green: #6a7045
+$fir-green: #313c33
+/* Переменные шрифтов
+$RS: "Roboto Slab", serif
+$AR: "Arial", serif
+$TNR: "Times New Roman", serif
+
+body
+  font-size: 1*10+1px
+  font-family: $RS
+
+  /* MIXIN4
+=IndexSettings(f)
+  font-size: $size
+  line-height: 0
+  position: relative
+  vertical-align: baseline
+
+  
+sub
+  +IndexSettings(75%)
+  bottom: -0.025*10em
+
+sup
+  +IndexSettings(75%)
+  top: -1+0.5em
+
+/* Фиксирует размер контейнера в каждой секции и центрирует на странице
+/* MIXIN1
+=PictSettings()
+  width: 500px
+  height: auto
+  margin: 15px 10px 5px
+  padding: 10px 5px 0 0
+  border-radius: 20%
+section
+  .menu-container, .header-container
+    width: 1300px
+    margin: 0 auto
+
+    /* border: 1px dashed #000000;
+    overflow: auto
+
+  .container
+    width: 1300px
+    margin: 0 auto
+
+    /* border: 1px dashed #000000;
+    background: #999999
+    padding: 100-90px 0 5*2px 0
+    overflow: auto
+
+  &.menu
+    /* Меняет фон секции с меню
+    background: $amber
+
+    /* Добавляет внутренние отступы у секции сверху и снизу
+    padding-top: 8px
+    padding-bottom: 8px
+
+    /* Центрирует неблочный контент (тег a) по центру родительского блочного элемента (div)
+    text-align: center
+    position: fixed
+    top: 0
+    width: 100%
+    z-index: 9999
+  &.header
+    h1
+      font-size: 80px
+      right: 0
+      padding: 0 0 50px 0
+      bottom: 5px
+      position: absolute
+
+    img
+      width: 100%
+
+  &.history
+    h3
+      padding: 25px 0 20px 0
+
+    img
+      +PictSettings()
+      float: left
+
+  &.after2001
+    h3
+      padding: 25px 0 20px 20px
+
+    img
+      +PictSettings()
+      float: right
+
+  &.charity img
+    width: 300px
+    height: auto
+    border-radius: 20%
+
+body
+  h2
+    padding: 10px 0 0 20px
+    font-size: 40px
+
+  h3
+    font-size: 25px
+
+  p
+    text-indent: 20px
+    margin: 0 10px 0 10px
+    font-size: 15px
+
+section
+  padding-bottom: 10px
+
+  &.menu a
+    font-size: 17px
+    padding-bottom: 0
+
+  &.header
+    /* Меняет фон секции с заголовком
+    background: #f00000 + #0fffff
+    padding-top: 10px
+
+.header-container
+  position: relative
+
+/* Растягивает ширину любой картинки на 100% от ширины родительского блока (т.е. container),
+ *все изображения будут пропорционально увеличены до 1000px ширины
+
+.charity
+  h2
+    text-align: center
+
+  h3
+    padding: 5px 0 0 0
+    text-align: center
+
+.nearby-container
+  width: 300px
+  display: inline-block
+  float: left
+  text-align: left
+  margin: 20px auto
+
+  p
+    margin: 10px auto
+
+.flex
+  display: flex
+
+.container iframe
+  margin: 20px auto
+  display: flex
+  border: 0
+
+.headquarters h2
+  text-align: center
+
+.aboutme
+  background: $red
+  padding-top: 8px
+  padding-bottom: 8px
+  text-align: center
+
+.aboutme-container
+  width: 1300px
+  margin: 0 auto
+
+  /* border: 1px dashed #000000;
+  overflow: auto
+  display: flex
+
+.P2
+  width: 20%
+  text-align: center
+  text-indent: 0
+
+.Tech
+  width: 100%
+  text-indent: 0
+  text-align: left
+
+.MyPhoto
+  margin: 0 0 0 20px
+  border-radius: 100%
+  width: 150px
+  height: auto
+
+  /* MIXIN2
+=AnchorSettings($pr)
+    -moz-user-select: $pr
+    -webkit-user-select: $pr
+    user-select: $pr
+
+  /* MIXIN3
+=TextShadow()
+  text-shadow: 1px 1px 2px black, 0 0 1em black
+p.anchor
+  color: #ffffff
+  +AnchorSettings(none)
+
+.Icon
+  text-align: center
+
+.fa-google
+  color: $red
+  +TextShadow()
+
+.fa-google-play
+  color: $blue
+  +TextShadow()
+
+.fa-google-drive
+  color: $darkgreen
+  +TextShadow()
+  margin: 0 20px 0 0
+
+.Photos
+  transition-duration: 0.5s
+
+  &:hover
+    border-radius: 10%
+    transform: scale(0.9)
+
+@keyframes G
+  0%
+    filter: drop-shadow(2px 2px 3px rgba(100, 0, 0, 0.5)) hue-rotate(60deg) blur(2px)
+
+  25%
+    transform: scaleX(1.2) translate(30px, -20px)
+
+.fa-google:hover
+  animation: G 5s
+
+@keyframes W
+  20%
+    transform: skewY(-10deg) rotate(360deg)
+
+  40%
+    transform: skewX(10deg)
+
+  60%
+    transform: skewY(10deg)
+
+  80%
+    transform: skewX(-10deg)
+
+.fa-wikipedia-w
+  animation: W 3s infinite
+
+#medal path
+  animation: Dark 1s infinite
+
+@keyframes Dark
+  0%
+    filter: brightness(50%)
+
+  25%
+    filter: brightness(100%)
+
+  100%
+    filter: brightness(50%)
+
+#star path
+  animation: Coloring 1s infinite
+
+@keyframes Coloring
+  0%
+    fill: Yellow
+
+  25%
+    fill: Orange
+
+  100%
+    fill: Yellow
+
+#cursor path
+  animation: Click 1s infinite
+
+@keyframes Click
+  25%
+    transform: scale(0.9)
+    filter: brightness(110%)
+
+/*# sourceMappingURL=Style.css.map

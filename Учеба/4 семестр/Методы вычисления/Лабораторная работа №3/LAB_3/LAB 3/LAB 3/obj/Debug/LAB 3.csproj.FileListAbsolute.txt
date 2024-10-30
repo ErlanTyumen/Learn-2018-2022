@@ -1,0 +1,19 @@
+C:\Users\valya\Desktop\LAB 3\LAB 3\bin\Debug\LAB 3.exe.config
+C:\Users\valya\Desktop\LAB 3\LAB 3\bin\Debug\LAB 3.exe
+C:\Users\valya\Desktop\LAB 3\LAB 3\bin\Debug\LAB 3.pdb
+C:\Users\valya\Desktop\LAB 3\LAB 3\obj\Debug\LAB 3.csprojAssemblyReference.cache
+C:\Users\valya\Desktop\LAB 3\LAB 3\obj\Debug\LAB_3.Form1.resources
+C:\Users\valya\Desktop\LAB 3\LAB 3\obj\Debug\LAB_3.Properties.Resources.resources
+C:\Users\valya\Desktop\LAB 3\LAB 3\obj\Debug\LAB 3.csproj.GenerateResource.cache
+C:\Users\valya\Desktop\LAB 3\LAB 3\obj\Debug\LAB 3.csproj.CoreCompileInputs.cache
+C:\Users\valya\Desktop\LAB 3\LAB 3\obj\Debug\LAB 3.exe
+C:\Users\valya\Desktop\LAB 3\LAB 3\obj\Debug\LAB 3.pdb
+C:\Users\Grost\Downloads\LAB_3\LAB 3\LAB 3\bin\Debug\LAB 3.exe.config
+C:\Users\Grost\Downloads\LAB_3\LAB 3\LAB 3\bin\Debug\LAB 3.exe
+C:\Users\Grost\Downloads\LAB_3\LAB 3\LAB 3\bin\Debug\LAB 3.pdb
+C:\Users\Grost\Downloads\LAB_3\LAB 3\LAB 3\obj\Debug\LAB 3.csprojAssemblyReference.cache
+C:\Users\Grost\Downloads\LAB_3\LAB 3\LAB 3\obj\Debug\LAB_3.Form1.resources
+C:\Users\Grost\Downloads\LAB_3\LAB 3\LAB 3\obj\Debug\LAB_3.Properties.Resources.resources
+C:\Users\Grost\Downloads\LAB_3\LAB 3\LAB 3\obj\Debug\LAB 3.csproj.GenerateResource.cache
+C:\Users\Grost\Downloads\LAB_3\LAB 3\LAB 3\obj\Debug\LAB 3.exe
+C:\Users\Grost\Downloads\LAB_3\LAB 3\LAB 3\obj\Debug\LAB 3.pdb

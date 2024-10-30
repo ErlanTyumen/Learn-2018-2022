@@ -1,0 +1,319 @@
+
+
+/* Задает стиль текста на всей странице */
+body {
+	font-size: 11px;
+	font-family: 'Roboto Slab', serif;
+}
+
+sub, sup {
+  font-size: 75%;
+
+  line-height: 0;
+
+  position: relative;
+
+  vertical-align: baseline;
+}
+
+sup {
+  top: -0.5em;
+}
+
+sub {
+  bottom: -0.25em;
+}
+
+/* Фиксирует размер контейнера в каждой секции и центрирует на странице */
+section .menu-container {
+	margin:0 auto;
+	/* border: 1px dashed #000000; */
+	overflow: auto;
+}
+
+section .header-container {
+	margin:0 auto;
+	/* border: 1px dashed #000000; */
+	overflow: auto;
+}
+
+section .container {
+	width: 100%;
+	margin:0 auto;
+	/* border: 1px dashed #000000; */
+	background: #999999;
+	padding: 10px 0 10px 0;
+	overflow:auto;
+}
+
+section.menu {
+	/* Меняет фон секции с меню */
+	background: #fbbc05;	
+	/* Добавляет внутренние отступы у секции сверху и снизу */
+	padding-top: 8px;
+	padding-bottom: 8px;
+	/* Центрирует неблочный контент (тег a) по центру родительского блочного элемента (div) */
+	text-align: center;
+	position: fixed;
+	top:0;
+	width: 100%;
+	z-index: 9999;
+}
+
+body h2 {
+	padding: 10px 0 0 20px;
+	font-size: 40px;
+}
+
+body h3 {
+	font-size: 25px;
+}
+
+body p {
+	text-indent: 20px;
+	margin: 0 10px 0 10px;
+	font-size: 15px;
+}
+
+section {
+	padding-bottom:10px;
+}
+
+section.menu a {
+	font-size: 17px;
+	padding-bottom:0;
+}
+
+section.header {
+	/* Меняет фон секции с заголовком */
+	background: #ffffff;
+	padding-top: 10px;
+}
+
+.header-container {
+	position: relative;
+}
+
+section.header h1 {
+	font-size: 50px;
+	right: 0;
+	bottom: 8px;
+	position: absolute;
+}
+
+
+/* Растягивает ширину любой картинки на 100% от ширины родительского блока (т.е. container), 
+все изображения будут пропорционально увеличены до 1000px ширины */
+section.header img 
+{
+	width: 100%;
+}
+
+section.history h3
+{
+	padding: 25px 0 20px 0;
+}
+
+section.history img {
+	width: 500px;
+	height: auto;
+	margin: 15px 10px 5px ;
+	padding: 10px 5px 0 0;
+	border-radius: 20%;
+	float: left;
+}
+
+section.after2001 h3 {
+	padding: 25px 0 20px 20px;
+}
+
+section.after2001 img {
+	width: 500px;
+	height: auto;
+	margin: 15px 10px 5px ;
+	padding: 10px 5px 0 0;
+	border-radius: 20%;
+	float: right;
+}
+
+section.charity img {
+	width: 300px;
+	height: auto;
+	border-radius: 20%;
+}
+
+.charity h2 {
+	text-align: center;
+}
+
+.charity h3 {
+	padding: 5px 0 0 0;
+	text-align: center;
+}
+
+.nearby-container
+{
+	display: inline-block;
+	text-align: left;
+}
+
+.nearby-container p
+{
+}
+
+.flex 
+{
+	display: flex;
+	justify-content: space-around;
+}
+.video-container {
+	position: relative;
+	width: 100%;
+	height: 0;
+	padding-bottom: 56.25%;
+}
+.video-container iframe
+{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	padding: 0 1px 0 1px;
+}
+
+.headquarters h2 {
+	text-align: center;
+}
+
+
+.aboutme {
+	background: #ea4335;	
+	padding-top: 8px;
+	padding-bottom: 8px;
+	text-align: center;
+}
+
+.container.aboutme-container
+{
+	width: 100%;
+	margin:0 auto;
+	background-color: #ea4335;
+	/* border: 1px dashed #000000; */
+	overflow: auto;
+	display: flex;
+}
+
+.P2
+{
+	width: 20%;
+	text-align:center;
+	text-indent: 0;
+}
+
+.Tech
+{
+	width: 50%;
+	text-indent: 0;
+	text-align:left;
+}
+
+.MyPhoto
+{
+	margin:0 0 0 20px;
+	border-radius: 100%;
+	width: 150px;
+	height: auto;
+}
+
+.anchor {
+	position: relative;
+	top: -50px;
+}
+
+.Icon{
+	text-align: center;
+}
+
+.fa-google{
+	color:#ea4335;
+	text-shadow:1px 1px 2px black, 0 0 1em black;
+}
+
+.fa-google-play{
+	color:#46CCF8;
+	text-shadow:1px 1px 2px black, 0 0 1em black;
+}
+
+.fa-google-drive{
+	color:#34a853;
+	text-shadow:1px 1px 2px black, 0 0 1em black;
+	margin: 0 20px 0 0;
+}
+
+.Photos {
+	transition-duration:0.5s;
+}
+
+.Photos:hover {
+	border-radius: 10%;
+	transform:scale(0.9);
+}
+
+@keyframes G {
+	0%{filter:drop-shadow(2px 2px 3px rgba(100,0,0,0.5)) hue-rotate(60deg) blur(2px);}
+	25%{transform:scaleX(1.2) translate(30px, -20px);}
+}
+	
+.fa-google:hover {
+	animation:G 5s;
+}
+
+@keyframes W {
+	
+	20%{transform: skewY(-10deg) rotate(360deg)}
+	40%{transform: skewX(10deg)}
+	60%{transform: skewY(10deg)}
+	80%{transform: skewX(-10deg)}
+}
+
+.fa-wikipedia-w{
+	animation:W 3s infinite;
+}
+
+#medal path{
+	animation:Dark 1s infinite;
+}
+
+@keyframes Dark {
+	0%{filter:brightness(50%);}
+	25%{filter:brightness(100%);}
+	100%{filter:brightness(50%);}
+}
+
+#star path{
+	animation:Coloring 1s infinite;
+}
+
+@keyframes Coloring {
+	0%{fill:Yellow;}
+	25%{fill:Orange;}
+	100%{fill:Yellow;}
+}
+
+#cursor path{
+	animation:Click 1s infinite;
+}
+
+@keyframes Click {
+	25%{transform:scale(0.9);filter:brightness(110%);}
+}
+
+form {
+	right:0;
+}
+
+.find-item {
+	background-color: yellow;
+	color: #000;
+}

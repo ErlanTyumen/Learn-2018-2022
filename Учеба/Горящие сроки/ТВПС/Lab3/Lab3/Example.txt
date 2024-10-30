@@ -1,0 +1,49 @@
+﻿UpdateStmt
+'UPDATE' Identifier 'SET' Assignments 'WHERE' Expression
+'UPDATE' Identifier 'SET' Assignments ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Assignment ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' Expression ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' Inequality ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' Additive ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' Multiplicative ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' Multiplicative '*' Primary ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' Primary '*' Primary ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Expression ')'  '*' Primary ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Inequality ')'  '*' Primary ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Additive ')'  '*' Primary ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Additive '+' Multiplicative ')'  '*' Primary ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Multiplicative '+' Multiplicative ')'  '*' Primary ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Primary '+' Multiplicative ')'  '*' Primary ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Multiplicative ')'  '*' Primary ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Primary ')'  '*' Primary ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Primary ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Assignment 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' Expression 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' Inequality 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' Additive 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' Multiplicative 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' Multiplicative '/' Primary 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' Primary '/' Primary 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Inequality ')' '/' Primary 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Additive ')' '/' Primary 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Additive '-' Multiplicative ')' '/' Primary 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Multiplicative '-' Multiplicative ')' '/' Primary 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Primary '-' Multiplicative ')' '/' Primary 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Multiplicative ')' '/' Primary 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Primary ')' '/' Primary 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Primary 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Expression
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Inequality
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Inequality '>' Additive
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Additive '>' Additive
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Additive '+' Multiplicative '>' Additive
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Multiplicative '+' Multiplicative '>' Additive
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Primary '+' Multiplicative '>' Additive
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Identifier '+' Multiplicative '>' Additive
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Identifier '+' Primary '*' Primary '>' Additive
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Identifier '+' Number '*' Primary '>' Additive
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Additive
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Multiplicative
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Primary
+'UPDATE' Identifier 'SET' Identifier '=' '(' Identifier '+' Number ')'  '*' Number ',' Identifier '=' '(' Identifier '-' Number ')' '/' Number 'WHERE' Identifier '+' Number '*' Number '>' Number
+

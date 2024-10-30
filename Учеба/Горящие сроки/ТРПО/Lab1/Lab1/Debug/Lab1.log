@@ -1,0 +1,5 @@
+﻿  Lab1.cpp
+C:\Users\Grost\Desktop\ТРПО\Lab1\Lab1\Lab1.cpp(157,8): error C2039: "push_back": не является членом "std::stack<Product,std::deque<Product,std::allocator<Product>>>".
+C:\Users\Grost\Desktop\ТРПО\Lab1\Lab1\Lab1.cpp(137): message : см. объявление "std::stack<Product,std::deque<Product,std::allocator<Product>>>"
+C:\Users\Grost\Desktop\ТРПО\Lab1\Lab1\Lab1.cpp(158,8): error C2039: "unique": не является членом "std::stack<Product,std::deque<Product,std::allocator<Product>>>".
+C:\Users\Grost\Desktop\ТРПО\Lab1\Lab1\Lab1.cpp(137): message : см. объявление "std::stack<Product,std::deque<Product,std::allocator<Product>>>"

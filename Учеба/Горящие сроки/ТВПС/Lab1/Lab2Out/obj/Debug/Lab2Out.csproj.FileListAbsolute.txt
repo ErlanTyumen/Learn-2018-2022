@@ -1,0 +1,7 @@
+C:\Users\Grost\Desktop\ТВПС\Lab1\Lab2Out\bin\Debug\Lab2Out.exe.config
+C:\Users\Grost\Desktop\ТВПС\Lab1\Lab2Out\bin\Debug\Lab2Out.exe
+C:\Users\Grost\Desktop\ТВПС\Lab1\Lab2Out\bin\Debug\Lab2Out.pdb
+C:\Users\Grost\Desktop\ТВПС\Lab1\Lab2Out\obj\Debug\Lab2Out.csprojAssemblyReference.cache
+C:\Users\Grost\Desktop\ТВПС\Lab1\Lab2Out\obj\Debug\Lab2Out.csproj.CoreCompileInputs.cache
+C:\Users\Grost\Desktop\ТВПС\Lab1\Lab2Out\obj\Debug\Lab2Out.exe
+C:\Users\Grost\Desktop\ТВПС\Lab1\Lab2Out\obj\Debug\Lab2Out.pdb

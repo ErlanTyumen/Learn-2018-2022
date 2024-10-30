@@ -1,0 +1,55 @@
+C:\Users\Grost\source\repos\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe.config
+C:\Users\Grost\source\repos\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe
+C:\Users\Grost\source\repos\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.pdb
+C:\Users\Grost\source\repos\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csprojAssemblyReference.cache
+C:\Users\Grost\source\repos\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Form1.resources
+C:\Users\Grost\source\repos\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Properties.Resources.resources
+C:\Users\Grost\source\repos\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csproj.GenerateResource.cache
+C:\Users\Grost\source\repos\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.exe
+C:\Users\Grost\source\repos\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.pdb
+C:\Users\andro\Desktop\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe.config
+C:\Users\andro\Desktop\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe
+C:\Users\andro\Desktop\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.pdb
+C:\Users\andro\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csprojAssemblyReference.cache
+C:\Users\andro\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Form1.resources
+C:\Users\andro\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Properties.Resources.resources
+C:\Users\andro\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csproj.GenerateResource.cache
+C:\Users\andro\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csproj.CoreCompileInputs.cache
+C:\Users\andro\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.exe
+C:\Users\andro\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.pdb
+C:\Users\Grost\Downloads\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe.config
+C:\Users\Grost\Downloads\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe
+C:\Users\Grost\Downloads\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.pdb
+C:\Users\Grost\Downloads\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csprojAssemblyReference.cache
+C:\Users\Grost\Downloads\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Form1.resources
+C:\Users\Grost\Downloads\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Properties.Resources.resources
+C:\Users\Grost\Downloads\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csproj.GenerateResource.cache
+C:\Users\Grost\Downloads\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.exe
+C:\Users\Grost\Downloads\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.pdb
+C:\Users\Grost\Desktop\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe.config
+C:\Users\Grost\Desktop\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe
+C:\Users\Grost\Desktop\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.pdb
+C:\Users\Grost\Desktop\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csprojAssemblyReference.cache
+C:\Users\Grost\Desktop\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Form1.resources
+C:\Users\Grost\Desktop\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Properties.Resources.resources
+C:\Users\Grost\Desktop\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csproj.GenerateResource.cache
+C:\Users\Grost\Desktop\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.exe
+C:\Users\Grost\Desktop\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.pdb
+E:\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe.config
+E:\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe
+E:\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.pdb
+E:\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csprojAssemblyReference.cache
+E:\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Form1.resources
+E:\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Properties.Resources.resources
+E:\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csproj.GenerateResource.cache
+E:\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.exe
+E:\Курсовая работа\CIAKOD_Kursach\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.pdb
+C:\Users\Grost\Desktop\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe.config
+C:\Users\Grost\Desktop\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.exe
+C:\Users\Grost\Desktop\CIAKOD Kursach\CIAKOD Kursach\bin\Debug\CIAKOD Kursach.pdb
+C:\Users\Grost\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csprojAssemblyReference.cache
+C:\Users\Grost\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Form1.resources
+C:\Users\Grost\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD_Kursach.Properties.Resources.resources
+C:\Users\Grost\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.csproj.GenerateResource.cache
+C:\Users\Grost\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.exe
+C:\Users\Grost\Desktop\CIAKOD Kursach\CIAKOD Kursach\obj\Debug\CIAKOD Kursach.pdb

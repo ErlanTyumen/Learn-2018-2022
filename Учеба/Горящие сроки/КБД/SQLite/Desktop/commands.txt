@@ -1,0 +1,6 @@
+cd C:\SQLite
+.open C:\SQLite\Hotels.db
+.output C:\SQLite\Output_backup.sql 
+.dump 
+.output stdout
+.exit

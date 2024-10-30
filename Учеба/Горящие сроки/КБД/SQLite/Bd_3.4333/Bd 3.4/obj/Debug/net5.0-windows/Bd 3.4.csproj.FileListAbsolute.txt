@@ -1,0 +1,190 @@
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.csprojAssemblyReference.cache
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4_MarkupCompile.cache
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4_MarkupCompile.lref
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.exe
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.deps.json
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.runtimeconfig.json
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.runtimeconfig.dev.json
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\ref\Bd 3.4.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.pdb
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Arseny\source\repos\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.g.resources
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.AssemblyInfoInputs.cache
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.AssemblyInfo.cs
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.csproj.CoreCompileInputs.cache
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.csproj.CopyComplete
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.dll
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\ref\Bd 3.4.dll
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.pdb
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.genruntimeconfig.cache
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\AddClient.g.cs
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\AddClient.baml
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\AddOrder.g.cs
+C:\Users\Arseny\source\repos\Bd 3.4\obj\Debug\net5.0-windows\AddOrder.baml
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.csprojAssemblyReference.cache
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\AddClient.g.cs
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\AddOrder.g.cs
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4_MarkupCompile.cache
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4_MarkupCompile.lref
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\ref\Bd 3.4.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.pdb
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.exe
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.deps.json
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.runtimeconfig.json
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.runtimeconfig.dev.json
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\ref\Bd 3.4.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.pdb
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\AddClient.baml
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\AddOrder.baml
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.g.resources
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.AssemblyInfoInputs.cache
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.AssemblyInfo.cs
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.csproj.CoreCompileInputs.cache
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.csproj.CopyComplete
+C:\Users\Grost\Downloads\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.genruntimeconfig.cache
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.exe
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.deps.json
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.runtimeconfig.json
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.runtimeconfig.dev.json
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\ref\Bd 3.4.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Bd 3.4.pdb
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Humanizer.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Data.Sqlite.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.DotNet.PlatformAbstractions.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\SQLitePCLRaw.nativelibrary.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\SQLitePCLRaw.core.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\bin\Debug\net5.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.csprojAssemblyReference.cache
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\AddClient.g.cs
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\AddOrder.g.cs
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\App.g.cs
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4_MarkupCompile.cache
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4_MarkupCompile.lref
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\AddClient.baml
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\AddOrder.baml
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\MainWindow.baml
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.g.resources
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.AssemblyInfoInputs.cache
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.AssemblyInfo.cs
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.csproj.CoreCompileInputs.cache
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.csproj.CopyComplete
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\ref\Bd 3.4.dll
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.pdb
+C:\SQLite\Bd_3.4333\Bd 3.4\obj\Debug\net5.0-windows\Bd 3.4.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\Grost\Desktop\Kursach\LabPotor-1\LabPotor-1\obj\Debug\LabPotor-1.csprojAssemblyReference.cache
+C:\Users\Grost\Desktop\Kursach\LabPotor-1\LabPotor-1\obj\Debug\LabPotor_1.Form1.resources
+C:\Users\Grost\Desktop\Kursach\LabPotor-1\LabPotor-1\obj\Debug\LabPotor_1.Properties.Resources.resources
+C:\Users\Grost\Desktop\Kursach\LabPotor-1\LabPotor-1\obj\Debug\LabPotor-1.csproj.GenerateResource.cache
+C:\Users\Grost\Desktop\Kursach\LabPotor-1\LabPotor-1\bin\Debug\LabPotor-1.exe.config
+C:\Users\Grost\Desktop\Kursach\LabPotor-1\LabPotor-1\bin\Debug\LabPotor-1.exe
+C:\Users\Grost\Desktop\Kursach\LabPotor-1\LabPotor-1\bin\Debug\LabPotor-1.pdb
+C:\Users\Grost\Desktop\Kursach\LabPotor-1\LabPotor-1\obj\Debug\LabPotor-1.exe
+C:\Users\Grost\Desktop\Kursach\LabPotor-1\LabPotor-1\obj\Debug\LabPotor-1.pdb

@@ -1,0 +1,58 @@
+*Program:
+	Statement*
+Statement:
+	ExpressionStatement
+	VariableDeclaration
+	VariableAssignment
+	ArrayAssignment
+	If
+	While
+ExpressionStatement:
+	Expression ';'
+VariableDeclaration:
+	'var' Identifier '=' Expression ';'
+VariableAssignment:
+	Identifier '=' Expression ';'
+ArrayAssignment:
+	ElementAccess '=' Expression ';'
+If:
+	'if' '(' Expression ')' Block
+While:
+	'while' '(' Expression ')' Block
+Block:
+	'{' Statement* '}'
+Expession:
+	Equality
+Equality: 
+	Equality "==" Relational
+	Relational
+Relational: 
+	Relational "<" Additive
+	Additive
+Additive: 
+	Additive ("+" | "-") Multiplicative
+	Multiplicative
+Multiplicative:
+	Multiplicative ("*" | "/" | "%") Primary
+	Primary
+// Primary: Primitive ('(' Arguments? ')' | '.' Identifier)*
+Primary:
+	ArrayLiteral
+	Call
+	MemberAccess
+	ElementAccess
+	Primitive
+ArrayLiteral:
+	'[' Arguments? ']'
+Call:
+	Primary '(' Arguments? ')'
+Arguments:
+	Expression (',' Expression)*
+MemberAccess:
+	Primary '.' Identifier
+ElementAccess:
+	Primary '[' Expression ']'
+Primitive:
+	Number
+	Identifier
+	'(' Expression ')'

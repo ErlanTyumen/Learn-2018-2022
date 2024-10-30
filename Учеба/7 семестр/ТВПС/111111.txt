@@ -1,0 +1,120 @@
+var tree = new UpdateStmt(
+				new Identifier("t1"),
+				new IExpression[] {
+					new Expression(
+						new Identifier("col1"),
+						OperatorOfType.Equal,
+						new Expression(
+							new Parenthesis(
+								new Expression(
+									new Identifier("col1"),
+									OperatorOfType.Add,
+									new Number("2")
+								)
+							),
+							OperatorOfType.Multiply,
+							new Number("3")
+							)
+						),
+						new Expression(
+						new Identifier("col2"),
+						OperatorOfType.Equal,
+						new Expression(
+							new Parenthesis(
+								new Expression(
+									new Identifier("col2"),
+									OperatorOfType.Subtract,
+									new Number("4")
+								)
+							),
+							OperatorOfType.Divide,
+							new Number("5")
+							)
+						)
+					},
+					new Expression(
+						new Expression(
+							new Expression(
+								new Identifier("col3"),
+								OperatorOfType.Add,
+								new Number("6")
+								),
+							OperatorOfType.Multiply,
+							new Number("7")
+							),
+						OperatorOfType.Greater,
+						new Number("5")
+						)
+					);
+
+
+
+
+
+new UpdateStmt(
+  new Identifier("t1"),
+  new Binary[]{
+    new Binary(
+      new Identifier("col1"),
+      OperatorOfType.Equal,
+      new Binary(
+        new Parenthesis(
+new Binary(
+            new Identifier("col1"),
+            OperatorOfType.Add,
+            new Number("2")
+            )
+          ),
+        OperatorOfType.Multiply,
+        new Number("3")
+        )
+      )    new Binary(
+      new Identifier("col2"),
+      OperatorOfType.Equal,
+      new Binary(
+        new Parenthesis(
+new Binary(
+            new Identifier("col2"),
+            OperatorOfType.Subtract,
+            new Number("4")
+            )
+          ),
+        OperatorOfType.Divide,
+        new Number("5")
+        )
+      )},
+
+new Binary(
+    new Binary(
+      new Binary(
+        new Identifier("col3"),
+        OperatorOfType.Add,
+        new Number("6")
+        ),
+      OperatorOfType.Multiply,
+      new Number("7")
+      ),
+    OperatorOfType.Greater,
+    new Number("5")
+    ))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
